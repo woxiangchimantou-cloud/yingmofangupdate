@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "updated_at": "2026-10-21T00:15:00+08:00",
+  "items": [
+    {
+      "id": "20261021-welcome",
+      "level": "normal",
+      "title": "通知通道已开通",
+      "body": "以后有新版本、新片源，会在这里通知你。",
+      "links": [],
+      "platforms": ["win", "nas"],
+      "min_version": "0.0.0",
+      "max_version": null,
+      "publish_at": "2026-10-20T00:00:00+08:00",
+      "expire_at": null
+    }
+  ]
+}
