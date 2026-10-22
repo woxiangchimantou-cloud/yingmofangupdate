@@ -1,0 +1,9 @@
+{
+  "_readme": "NAS 端专用版本清单。与 Win 端的 GitHub releases 完全分开，两条版本号各自独立演进。发新版时：① 改 version ② 填 download_url（镜像 tar 的下载地址）③ 填 notes（更新日志，每行一条）。然后把本文件推到 GitHub 仓库 woxiangchimantou-cloud/yingmofangupdate 的根目录，NAS 端「检查更新」就会读到。download_url 留空时界面只提示有新版本、不显示下载按钮。",
+  "platform": "nas",
+  "version": "2.7.2",
+  "notes": "2.7.2：修「电脑上改了标题/演员，手机端不更新」的三端同步时区比较错误（Android 端是根因，Win/NAS 逻辑同步对齐）",
+  "download_url": "",
+  "guide_url": "",
+  "published_at": ""
+}
