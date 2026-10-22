@@ -1,17 +1,29 @@
 {
   "schema": 1,
-  "updated_at": "2026-10-21T00:15:00+08:00",
+  "updated_at": "2026-10-22T10:33:18+08:00",
   "items": [
     {
-      "id": "20261021-welcome",
+      "id": "20261022-1",
       "level": "normal",
-      "title": "通知通道已开通",
-      "body": "以后有新版本、新片源，会在这里通知你。",
-      "links": [],
-      "platforms": ["win", "nas"],
+      "title": "影魔方v2.7.2发布了哈",
+      "body": "此次暂无新功能上线，因为三端同步调整较多，故最近在查缺补漏，优化了刮削器的按人物或标签移动到各自文件夹",
+      "links": [
+        {
+          "text": "夸克链接",
+          "url": "https://pan.quark.cn/s/b348bddd9625?pwd=rYmf"
+        },
+        {
+          "text": "115链接",
+          "url": "https://115cdn.com/s/swscok536ox?password=8888&#访问码：8888"
+        }
+      ],
+      "platforms": [
+        "win",
+        "nas"
+      ],
       "min_version": "0.0.0",
       "max_version": null,
-      "publish_at": "2026-10-20T00:00:00+08:00",
+      "publish_at": "2026-10-22T10:28:00+08:00",
       "expire_at": null
     }
   ]
